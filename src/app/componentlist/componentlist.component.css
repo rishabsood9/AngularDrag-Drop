@@ -1,0 +1,9 @@
+/* You can add global styles to this file, and also import other style files */
+
+.sidebar {
+  max-width: 250px;
+}
+.details {
+  flex-grow: 1;
+  margin: 20px;
+}
